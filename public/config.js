@@ -3,7 +3,7 @@ window.__CONFIG__ = {
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
   VITE_CORS_PROXY_URL: "https://proxy.sudo-flix.nl",
 
-  VITE_BACKEND_URL: "https://backend.sudo-flix.nl",
+  VITE_BACKEND_URL: "https://server.fifthwit.net",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzODcyMjg2MDgxZDU5ZTcxYjQ1ZTBhYzUwMGYwNmE4MCIsIm5iZiI6MTc0MzczMTM5Mi4xMjEsInN1YiI6IjY3ZWYzYWMwOGIxZjMyZWI3OWQ5MTBiNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jvpgPsAF4cdTVIncERqPk1vkPs1ttP5nbilAtkPdoPo",
