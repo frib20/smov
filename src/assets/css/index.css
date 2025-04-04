@@ -8,6 +8,9 @@ body {
   min-height: 100vh;
   min-height: 100dvh;
   font-size: 1.0248em;
+  background-image: url("https://i.imgur.com/wESucnb.jpeg");
+  background-size: cover;
+  font-family: Comfortaa;
 }
 
 html[data-full],
@@ -60,7 +63,16 @@ html[data-no-scroll], html[data-no-scroll] body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-
+.hover\:text-type-logo
+{
+border: solid black;
+border-radius: 15px;
+} 
+.hover\:text-type-logo:hover
+{
+border: solid black;
+border-radius: 15px;
+} 
 .google-cast-button:not(.casting) google-cast-launcher {
   @apply brightness-[500];
 }
